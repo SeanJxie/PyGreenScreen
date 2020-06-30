@@ -1,2 +1,2 @@
 # PyGreenScreen
-A simple green screen program made with CV2.
+A simple green screen program made with OpenCV.
