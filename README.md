@@ -1,2 +1,2 @@
 # PyGreenScreen
-A simple green screen program made with OpenCV.
+A bad green screen program made with OpenCV.
